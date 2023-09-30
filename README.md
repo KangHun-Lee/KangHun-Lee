@@ -2,9 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=KangHun's%20Repo&fontSize=60" />
 </div>  
 
-<p align="right">
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangHun-Lee&count_bg=%233D3EC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)
-</p>
 
 ### Hi, Welcome to my repository. 👋
 
@@ -41,3 +39,7 @@
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=redmine&logoColor=white"/></a>
+
+##### Contact me
+<a href="mailto:gang322@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="https://www.instagram.com/b.kanghun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
