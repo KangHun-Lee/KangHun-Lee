@@ -41,5 +41,5 @@
 <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=redmine&logoColor=white"/></a>
 
 ##### Contact me
-<a href="mailto:gang322@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-<a href="https://www.instagram.com/b.kanghun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a target="_blank" href="mailto:gang322@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<a target="_blank" href="https://www.instagram.com/b.kanghun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
