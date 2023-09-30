@@ -6,7 +6,7 @@
 
 ### Hi, Welcome to my repository. 👋
 
-<h4>🔧 Tech stack 🔧</h4>
+#### 🔧 Tech stack 🔧
 
 ##### 🌔 Back-end
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -42,7 +42,7 @@
 ##### 👍 Collaborative Tools
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=redmine&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=redmine&logoColor=white"/></a>  
 <br>
 
 ##### Contact me
