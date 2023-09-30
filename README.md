@@ -1,5 +1,6 @@
 ### Hi there 👋
-![KangHun-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangHun-Lee&count_private=true&show_icons=true&theme=radical)
+[![KangHun-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangHun-Lee&count_private=true&show_icons=true&theme=radical)](https://github.com/KangHun-Lee/github-readme-stats)
+
 <!--
 **KangHun-Lee/KangHun-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
